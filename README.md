@@ -1,27 +1,16 @@
-# MonProjetAngular
+# mon-projet-blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
-## Development server
+Ce projet a été créé par Stéphane LEMAILE dans le cadre d'une formation à Angular 5 par le site d'openClassRoom
+https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+L'exercice demandé à été déposé sur cette adresse github 
+https://github.com/stelem35/openClassRoomTraining
 
-## Code scaffolding
+créée pour l'occasion avec cette formation simple et explicite à git et github
+https://www.youtube.com/watch?v=4o9qzbssfII
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
