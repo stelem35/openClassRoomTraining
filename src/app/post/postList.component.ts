@@ -27,7 +27,7 @@ export class PostListComponent implements OnInit {
     return 'black';
     }
   }
-// on click button
+
   onLoveIt(){
     this.postloveIts=this.postloveIts+1;
     console.log(this.postloveIts);
